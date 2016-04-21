@@ -1,0 +1,14 @@
+O = codex Corbeiensis nune Parisinus 12168 saec. VIII-VIIII quattuor
+priores libros continens.
+
+N = codex Nouariensis LXXXII saeculi X.
+
+L = codex Laudianus 130 saeculi X.
+
+S = codex sessorianus XXIII saec. X.
+
+b = offitio pria. Basileae 1506 apud Io. Amerbachium.
+d = editio Benedicfinorum a S. Mauro a. 1689 sqq.
+
+ 
+
